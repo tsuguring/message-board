@@ -1,4 +1,4 @@
-# message-board
+# message_board
 
 Node.jsの練習としてメッセージボードを作成しました。
 
